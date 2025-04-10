@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AppNotas</string>
+    <string-array name="colors_array">
+        <item>Rojo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Amarillo</item>
+        <item>Blanco</item>
+        <item>Cafe</item>
+        <item>Gris</item>
+        <item>Morado</item>
+        <item>Rosa</item>
+        <item>Naranja</item>
+    </string-array>
+</resources>
